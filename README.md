@@ -4,10 +4,10 @@ Este repositorio tiene como objetivo recolectar código utilizado en soluciones 
 
 La primera versión de la estructura y clasificación será la siguiente:
 
-Título de Solución
-¿Qué hace el código?
-Comentarios adicionales para su utilización
-Código
+    Título de Solución
+    ¿Qué hace el código?
+    Comentarios adicionales para su utilización
+    Código
 
 Ej.
 
