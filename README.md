@@ -9,8 +9,6 @@ La primera versión de la estructura y clasificación será la siguiente:
     Comentarios adicionales para su utilización
     Código
 
-Ej.
-
 ## Bucle Único (Single Loop)
 Se utiliza para recorrer un rango unidimensional de celdas.
 Debes agregar un **botón (control de formulario)** en la hoja de trabajo. Esto se logra desde _Insertar_ en la pestaña _Programador_ y nombrar el botón para luego agregar el código:
