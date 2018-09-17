@@ -17,7 +17,7 @@ Debes agregar un **botón (control de formulario)** en la hoja de trabajo. Esto 
 > En este caso, se agregará el valor "Excel la lleva" a la celda 1 hasta la 6.
 ```
 Sub bucle()
-    Dim i As Integer
+    Dim i As Integer () '"Dim i%" es equivalente a definir i como integer
     
     For i = 1 To 6
         Cells(i, 1).Value = "Excel la lleva"
